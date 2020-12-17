@@ -206,6 +206,5 @@ for b,s,p,r in zip(brand_list,sentiment_list,polarity_list,review_list):
 #
 # # In[ ]:
 
-
-
+## i am tryin to learn how to sync the changes made on local machine to the already existing github repo
 
